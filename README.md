@@ -1,5 +1,5 @@
 # SU-JavaScript-Applicatons-Bus-Stop-Exercise
-Exercise from the JS App course in SoftUni. 
+Exercise from my path in SoftUni's course - Applications with JavaScript!
 
 ## 💻 Tech Stack
 - Languages: JavaScript, CSS, HTML
